@@ -1,7 +1,4 @@
----
-layout: post
-title: What's Jekyll?
----
+
 Hello! I am a senior mathematics major at MIT. I am interested in Differential Geometry and Lie Groups.
 # Publications
 
