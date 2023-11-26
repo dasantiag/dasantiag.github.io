@@ -8,7 +8,7 @@ title: About
 ![Daniel Santiago Alvarez Profile Picture](https://dasantiag.github.io/public/profile_picture.jpg){: .profile-pic}
 
 **Education:**  
-Massachusets Institute of Technology
+Massachusetts Institute of Technology
 
 **Email:**  
 [dsantiag@mit.edu](dsantiag@mit.edu)
