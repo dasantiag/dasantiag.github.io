@@ -5,15 +5,15 @@ title: About
 
 # About Me
 
-![Daniel Santiago Alvarez Profile Picture](https://dasantiag.github.io/public/profile_picture.jpg)
+![Daniel Santiago Alvarez Profile Picture](https://dasantiag.github.io/public/profile_picture.jpg){: .profile-pic}
 
-Education:  
+**Education:**  
 Massachusets Institute of Technology
 
-Email:  
+**Email:**  
 [dsantiag@mit.edu](dsantiag@mit.edu)
 
-Major:  
+**Major:**  
 Mathematics
 
 
