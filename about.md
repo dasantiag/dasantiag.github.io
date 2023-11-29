@@ -17,4 +17,4 @@ Massachusetts Institute of Technology
 Mathematics
 
 
-[Download CV](https://dasantiag.github.io/public/Daniel_Santiago_Final_Project_18_994_2.pdf){: .btn }
+[Download CV](https://dasantiag.github.io/public/CV_Daniel.pdf){: .btn }
