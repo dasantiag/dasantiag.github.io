@@ -17,4 +17,4 @@ Massachusetts Institute of Technology
 Mathematics
 
 
-[Download CV](https://dasantiag.github.io/public/CV_Daniel.pdf){: .btn }
+[Download CV](https://dasantiag.github.io/public/CV_Daniel_W.pdf){: .btn }
