@@ -1,7 +1,7 @@
 # Setup
 title:               Daniel Santiago Alvarez
 tagline:             ''
-description:         'Senior Mathematics Undergraduate @ <a href="https://www.mit.edu" target="_blank">MIT</a>.'
+description:         'Math PhD student @ <a href="https://www.math.harvard.edu/" target="_blank">MIT</a>.'
 url:                 https://dasantiag.github.io
 baseurl:             ''
 paginate:            5
@@ -11,7 +11,7 @@ permalink:           pretty
 author:
   name:              Daniel Santiago Alvarez
   url:               https://dasantiag.github.io
-  email:             dsantiag@mit.edu
+  email:             dsantiagoalvarez@math.harvard.edu
 
 # Gems
 plugins:
